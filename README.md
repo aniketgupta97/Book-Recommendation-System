@@ -7,7 +7,7 @@ Text Vectorization: Converts text data into numerical form using TF-IDF.
 Genre Encoding: Encodes book genres using MultiLabelBinarizer.
 Model Training: Uses Multinomial Naive Bayes for classifying book genres.
 Book Recommendations: Provides book recommendations based on cosine similarity of the combined features.
-Setup**
-Prerequisites**
+
+**Setup Prerequisites**
 Python 3.x
 Required Python libraries: pandas, scikit-learn, numpy, matplotlib, seaborn, pickle
